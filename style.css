@@ -1,0 +1,41 @@
+body{
+  background-color: mediumspringgreen 
+}
+h1{
+   background-color: blue;
+    color:red;
+    font-size: 100px;
+    
+}
+.preg{
+    color:blue;
+}
+#sub{
+    color: darkmagenta;
+    background-color: yellow
+}
+img{
+    height: 200px;
+    width: 200px;
+
+    
+}
+#imgsof{
+    height:500px;
+    width:1300px;
+}
+
+h3{
+    background-color: orangered;
+    width:8cm;
+    
+}
+h2{
+    background-color: magenta;
+    
+}
+
+.conteiner{
+    width:500px ;
+}
+  
